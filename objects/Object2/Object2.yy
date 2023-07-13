@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Omenaje",
+    "path": "Omenaje.yyp",
   },
   "parentObjectId": null,
   "persistent": false,
