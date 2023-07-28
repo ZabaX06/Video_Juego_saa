@@ -1,4 +1,4 @@
-/// @description Inserte aquí la descripción
+                                                    /// @description Inserte aquí la descripción
 
 		   
 if (keyboard_check(vk_right)){
@@ -63,4 +63,18 @@ else if (keyboard_check(ord("S")))
 	sprite_index = spr_coja;
 	image_xscale = 1;
 	
+	
 	}
+
+
+{
+
+if (keyboard_check(ord("E")))
+    {
+        
+   isAttacking = true;
+   sprite_index = spr_ataque; 
+  
+   
+    }
+}

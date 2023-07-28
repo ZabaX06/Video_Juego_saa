@@ -2,3 +2,8 @@
 
 spd =3;
 rrc =3;
+
+
+isAttacking = false;
+
+   
